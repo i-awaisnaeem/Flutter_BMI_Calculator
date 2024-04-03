@@ -31,7 +31,7 @@
 
 <h2>Contact</h2>
 
-<p>For any inquiries or assistance regarding the BMI Calculator App, please contact [iawaisnaeem@gmail.com].</p>
+<p>For any inquiries or assistance regarding the BMI Calculator App, please contact at iawaisnaeem@gmail.com.</p>
 
 <hr>
 
