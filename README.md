@@ -1,6 +1,8 @@
 
 <h1>Flutter BMI Calculator App</h1>
 
+![Beige Elegant New Collection Instagram Post](https://github.com/i-awaisnaeem/Flutter_BMI_Calculator/assets/99549253/3378ce7b-f44b-4383-a4ae-2eadb07be072)
+
 <h2>Introduction</h2>
 
 <p>The Flutter BMI (Body Mass Index) Calculator App is a mobile application designed to help users quickly and easily calculate their BMI based on their height and weight. BMI is a widely used measure to assess whether a person has a healthy body weight relative to their height. This app provides a simple and intuitive interface for users to input their height and weight and instantly receive their BMI calculation along with a corresponding interpretation of the result.</p>
@@ -23,6 +25,8 @@
     <li><strong>GitHub:</strong> The source code for the BMI Calculator App is hosted on GitHub, allowing for version control, collaboration, and community contributions.</li>
     <li><strong>Material Design:</strong> The app follows Google's Material Design guidelines to ensure a visually appealing and consistent user experience across different devices.</li>
 </ul>
+
+
 
 <h2>Contributing</h2>
 
