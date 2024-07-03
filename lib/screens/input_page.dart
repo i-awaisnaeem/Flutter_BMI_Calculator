@@ -100,8 +100,7 @@ class _InputDataState extends State<InputData> {
                               data: SliderTheme.of(context).copyWith(
                                 activeTrackColor: const Color(0xffffffff),
                                 inactiveTrackColor: const Color(0xff8d8e98),
-                                thumbColor:const Color(0xffeb1555),
-                                overlayColor: const Color(0x29eb1555),
+                                thumbColor:const Color(0xfff97038),
                                 thumbShape: const RoundSliderThumbShape(enabledThumbRadius: 15.0),
                                 overlayShape: const RoundSliderOverlayShape(overlayRadius: 30.0),
                               ),

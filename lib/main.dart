@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'screens/input_page.dart';
+import 'package:flutter_bmi_calculator/screens/splash_screen.dart';
+
 
 
 void main() => runApp(const BMICalculator());
@@ -15,7 +16,7 @@ class BMICalculator extends StatelessWidget {
           appBarTheme: const AppBarTheme(color: Color(0xFF0E1020)),
           scaffoldBackgroundColor: const Color(0xFF0E1020)
       ),
-      home: const InputData(),
+      home: const SplashScreen(),
     );
   }
 }
